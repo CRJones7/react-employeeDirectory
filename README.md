@@ -11,4 +11,10 @@ This application is built using react and the Random User.me API. It allows
 an user to search employees by name and updates the table of visible employees 
 based on the users input. 
 
-## Demo
+## Link to Site
+
+[Employee Directory](https://crjones7.github.io/react-employeeDirectory/)
+
+## Image of Site
+
+![Employee Directory](employeeDirectory.png)

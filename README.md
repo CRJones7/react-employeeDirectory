@@ -17,4 +17,4 @@ based on the users input.
 
 ## Image of Site
 
-![Employee Directory](employeeDirectory.png)
+![Employee Directory](https://i.imgur.com/l4oDjoC.png)
